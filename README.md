@@ -14,7 +14,7 @@ Once that was completed, I began creating my dashboard on Google Data Studios. T
 As I creating them, I learned that you can use BigQuery's BI Engine platform to accelerate your dashboard. So with my free $300 credit, I reserved an engine for a month at only $30. Once I was completed, this integration with my visuals, I worked on cleaning up my queries and dashboards.
 ## Dashboard Snapshot
 ![Dashboard](/Images/dashboard.PNG)
-
+* The graph on the top right and table on the bottom left have "Drill Down" enabled, so you can change data from monthly to quarterly to yearly. The "Product" drop-down helps filter for specific product on the top right graph
 ## The Business Analysis QA & Visuals
 ##### Visualization showing Order Volume over Time by Month
 ![Order Volume](/Images/order_vol.PNG)
