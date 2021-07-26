@@ -12,7 +12,7 @@ Minor syntax differences threw me off at first, but I was quickly able to adapt 
 Once that was completed, I began creating my dashboard on Google Data Studios. There was a bit of a learning curve at first, but it helped that it had many similar elements of both Tableau and Excel. After connecting GDS to my BigQuery database, I started to create my visualizations using custom queries. 
 ##### Accelerating the Dashboard with BigQuery BI Engine
 As I creating them, I learned that you can use BigQuery's BI Engine platform to accelerate your dashboard. So with my free $300 credit, I reserved an engine for a month at only $30. Once I was completed, this integration with my visuals, I worked on cleaning up my queries and dashboards.
-##### Dashboard Snapshot
+## Dashboard Snapshot
 ![Dashboard](/Images/dashboard.PNG)
 
 ## The Business Analysis QA & Visuals
