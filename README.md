@@ -14,9 +14,11 @@ Once that was completed, I began creating my dashboard on Google Data Studios. T
 As I creating them, I learned that you can use BigQuery's BI Engine platform to accelerate your dashboard. So with my free $300 credit, I reserved an engine for a month at only $30. Once I was completed, this integration with my visuals, I worked on cleaning up my queries and dashboards.
 ##### Dashboard Snapshot
 ![Dashboard](/Images/Dashboard.PNG)
+
 ## The Business Analysis QA & Visuals
 ##### Visualization showing Order Volume over Time by Month
 ![Order Volume](/Images/order_vol.PNG)
+
 Q: How is the business performing, based on order trends?
 A: It seems to be improving at a constant rate, but then exponentially improves after Q3 of 1997.
 
@@ -29,10 +31,12 @@ quarter? What year/month had the highest average freight for an order?
 A: Q1 of 1998 with 182 orders. The year with the highest average freight is 1998. The month with the highest average freight is May 1997.
 ##### Visualization showing total revenues over time
 ![Total Rev.](/Images/total_rev.PNG)
+
 Q: How is the revenue composition changing over time?
 A: Revenue was growing steadily but began to exponentially rise after Q3 of 1997, it is changing in a favorable manner over time. If more data was collected, we would get a better idea of what the rest of 1998 would have looked like.
 ##### Visualization showing Quarterly Revenue brought in by Company's Sales Representatives
 ![Sales Reps](/Images/sales_rep_rev.PNG)
+
 Q: Which Sales Rep is performing best, why?
 A: Margaret Peacock appears to be performing the best, with a total revenue of $250,187.45. There might be a few reasons, but one is that she has made consistent sales every month since the company started, unlike some other employees who made no sales some months. This might have been due to the territory she worked in, which could have provided her with more leads. 
 
@@ -40,6 +44,7 @@ Q: Which Sales Rep is performing poorest, why?
 A: Michael Suyama appears to be performing the worst, with a total revenue of $78,198.10. When you see his sales per month, you'll find that he made no sales in October 1996 and May 1998. This can't be the sole factor, though, as Anne Dodsworth had no sales for 5 separate months, and still brought in about $4000 more. This could be due to the territory that Michael works in, which might have made it difficult to find leads.
 ##### Visualization showing top 5 Customers
 ![Top 5](/Images/top_5.PNG)
+
 Q: How are they performing over the most recent 6 months relative to the prior
 6-month period?
 A: It appears to vary amongst them. For the top customer (Ernst Handel), they appear to steadily increase the whole time. As for the second (Save-a-lot Markets), they didn't make an order for a whole quarter during the most recent 6 months, in comparison to the prior months where they did. For the third (QUICK-Stop), they made orders the most recent 6 months, and for 3 months prior to that, but the first 3 months have no orders. The last two haven't made any purchases for the latter half of the recent 6 months, but the order total was higher than the prior months. Rattle Snake Canyon did not even make any orders for the prior 6 months.
@@ -48,6 +53,7 @@ Q: Which customers are not performing as well as they used to? How so?
 A: QUICK-Stop appears to be dropping in order totals in the last quarter, in comparison it's last few quarters. Save-a-lot Markets is about the same, where their order totals were great until 1998 where they didn't make an order until Q2.
 ##### Visualization showing New Metric for Company
 ![World Map](/Images/geo-chart.PNG)
+
 Q: Briefly explain why this metric is important to the business.
 A: This helps monitor revenue composition across all of the countries we have clients in. This can come in handy for potential client acquisitions, as well, in terms of marketing. 
 
